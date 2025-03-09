@@ -1,0 +1,21 @@
+# ignore all uploaded files (do not commit to git)
+*
+!.gitignore
+
+# TODO: except do not ignore the "seed" images for the "entries" table.
+!/songs/
+!/songs/1.jpg
+!/songs/2.JPG
+!/songs/3.JPG
+!/songs/4.jpg
+!/songs/5.JPG
+!/songs/6.JPG
+!/songs/7.JPG
+!/songs/8.JPG
+!/songs/9.JPG
+!/songs/10.JPG
+!/songs/11.JPG
+!/songs/12.JPG
+!/songs/13.JPG
+!/songs/14.JPG
+!/songs/15.JPG
